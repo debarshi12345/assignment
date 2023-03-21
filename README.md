@@ -3,18 +3,18 @@ Download data file from github site in this link
 https://github.com/debarshi12345/assignment/blob/main/data.mat
 Here, data is given in the following format upto l = 10
 
-| l | m | g|h|
-| --- | --- | --- | --- |
+| l | m |   g | h   |
+| --| --| --  | --  |
+| 1 | 0 | g10 | h01 |
+| 1 | 1 | g11 | h11 |
+| 2 | 0 | g20 | h02 |
+| 2 | 1 | g21 | h12 |
+| 2 | 2 | g22 | h22 |
+| 3 | 0 | g30 | h03 |
+| 3 | 1 | g31 | h13 |
+| 3 | 2 | g32 | h23 |
+| 3 | 3 | g33 | h33 |
 
-|1| 0| g10| h01|
-|1| 1| g11| h11|
-|2| 0| g20| h02|
-|2| 1| g21| h12|
-|2| 2| g22| h22|
-|3| 0| g30| h03|
-|3| 1| g31| h13|
-|3| 2| g32| h23|
-|3| 3| g33| h33|
 up to l = 10
 
 
