@@ -24,7 +24,12 @@ projection and apply coastline contours to create the visualization. Four sample
 been provided for you to evaluate the accuracy of your code.
 Please send the code that only requires the following input files for plotting, along with the
 four benchmark results.
+
+
 Input file -1: data.mat
+
 Input file -2: bluewhitered_range_adj_less_zero.m
+
+
 Also colormap is given in the following link.
 https://github.com/debarshi12345/assignment/blob/main/bluewhitered_range_adj_less_zero.m
