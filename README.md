@@ -40,3 +40,8 @@ Input file -2: bluewhitered_range_adj_less_zero.m
 
 Also colormap is given in the following link.
 https://github.com/debarshi12345/assignment/blob/main/bluewhitered_range_adj_less_zero.m
+
+
+
+
+Feel free to ask me any assignment-related queries at debarshim@iisc.ac.in.
