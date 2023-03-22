@@ -42,6 +42,7 @@ Also colormap is given in the following link.
 https://github.com/debarshi12345/assignment/blob/main/bluewhitered_range_adj_less_zero.m
 
 
-
+Hints: Use Schmidt normalized associated Legendre functions in matlab
+https://in.mathworks.com/help/matlab/ref/legendre.html
 
 Feel free to ask me any assignment-related queries at debarshim@iisc.ac.in.
