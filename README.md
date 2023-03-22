@@ -1,6 +1,13 @@
 # assignment
+
+
 Download data file from github site in this link
 https://github.com/debarshi12345/assignment/blob/main/data.mat
+or you can use txt file
+https://github.com/debarshi12345/assignment/blob/main/data.txt
+
+
+
 Here, data is given in the following format upto l = 10
 
 | l | m |   g | h   |
