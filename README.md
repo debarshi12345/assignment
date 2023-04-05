@@ -45,4 +45,6 @@ https://github.com/debarshi12345/assignment/blob/main/bluewhitered_range_adj_les
 Hints: Use Schmidt normalized associated Legendre functions in matlab
 https://in.mathworks.com/help/matlab/ref/legendre.html
 
+in python  https://shtools.github.io/SHTOOLS/python-legendre-functions.html#schmidt-normalized
+
 Feel free to ask me any assignment-related queries at debarshim@iisc.ac.in.
